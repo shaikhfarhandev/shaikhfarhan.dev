@@ -1,6 +1,6 @@
 Hi, I'm Mohammad Farhan 👋
 
-CSE Student • Flutter Developer • Mobile App Developer
+CSE Student | Flutter Developer | Mobile App Developer
 
 I’m a Computer Science & Engineering student and a passionate Flutter developer focused on building clean, practical, and user-friendly mobile applications.
 
@@ -81,12 +81,8 @@ Key areas: Flutter • Firebase • Authentication • Firestore • E-commerce 
 
 🎯 Current Focus
 
-Flutter Development       ████████████████████
-Dart                      ███████████████████░
-Firebase                  ██████████████████░░
-Mobile UI/UX              █████████████████░░░
-APIs & Backend            ███████████████░░░░░
-DSA & Computer Science    █████████████░░░░░░░
+Flutter Development | Dart | Firebase | Mobile UI/UX 
+APIs & Backend | DSA & Computer Science                     
 
 🤝 Let's Connect
 
